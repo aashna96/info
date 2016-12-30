@@ -23,7 +23,7 @@
  <div class="wrapper">
         <div class="sidebar-wrapper">
             <div class="profile-container">
- <img src="https://avatars0.githubusercontent.com/u/24796965?v=3&s=460" alt="Aashna Kainth" width=130 height=130 title="Aashna Kainth">              
+              
                
 
 <div class="contact-container container-block">
@@ -33,6 +33,7 @@
                     <li class="github"><i class="fa fa-github"></i><a href="https://github.com/aashna96" target="_blank">github.com/aashna96</a></li>
                     <li class="twitter"><i class="fa fa-facebook"></i><a href="https://web.facebook.com/profile.php?id=100007699757915" target="_blank">@aashna-kainth</a></li>
                 </ul>
+     <img src="https://avatars0.githubusercontent.com/u/24796965?v=3&s=460" alt="Aashna Kainth" width=130 height=130 title="Aashna Kainth">            
                 <div class="resume text-center">
                     <a href="/home/aashna/Downloads/resume.pdf" target="blank" class="btn btn-primary"><span class="glyphicon glyphicon-edit"></span> Resume</a>
                 </div>
