@@ -31,7 +31,7 @@
                     <li class="email"><i class="fa fa-envelope"></i><a href="mailto: aashnakainth230@gmail.com">aashnakainth230@gmail.com</a></li>
                     <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/aashna-kainth-8a181a130" target="_blank">linkedin.com/in/aashna-kainth</a></li>
                     <li class="github"><i class="fa fa-github"></i><a href="https://github.com/aashna96" target="_blank">github.com/aashna96</a></li>
-                    <li class="twitter"><i class="fa fa-facebook"></i><a href=https://web.facebook.com/profile.php?id=100007699757915 target="_blank">@aashna-kainth</a></li>
+                    <li class="twitter"><i class="fa fa-facebook"></i><a href="https://web.facebook.com/profile.php?id=100007699757915" target="_blank">@aashna-kainth</a></li>
                 </ul>
                 <div class="resume text-center">
                     <a href="/home/aashna/Downloads/resume.pdf" target="blank" class="btn btn-primary"><span class="glyphicon glyphicon-edit"></span> Resume</a>
