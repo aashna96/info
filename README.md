@@ -35,7 +35,7 @@
                 </ul>
                 
                 <div class="resume text-center">
-                    <a href="/home/aashna/Downloads/resume.pdf" target="blank" class="btn btn-primary"><span class="glyphicon glyphicon-edit"></span> Resume</a>
+                    <a href="resume.pdf" target="blank" class="btn btn-primary"><span class="glyphicon glyphicon-edit"></span> Resume</a>
                 </div>
 
 
