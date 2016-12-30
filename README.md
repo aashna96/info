@@ -70,10 +70,10 @@ CGPA: 9.8
 
 <hr>Technical Skills:
 <br/>
-<br>- Programming Languages: C, C++, JAVA, MySQL<br/>
+<br>- Programming Languages: C, C++, JAVA, Android, MySQL<br/>
 
-- Platforms: Linux and Windows
-
+- Platforms: Linux and Windows<br/>
+- Software Packages: Adobe, Photoshop, Flash
 
 
 <hr>TRAINING AND INDUSTRIAL EXPOSURE:
@@ -103,4 +103,6 @@ coding language.<br/>
 navigating without human input.
 
 
-
+<hr>INTERESTS:
+<br/>
+<br>Internet surfing, Coding, Reading books, Music
