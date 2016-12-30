@@ -23,7 +23,7 @@
  <div class="wrapper">
         <div class="sidebar-wrapper">
             <div class="profile-container">
-                
+ <img src="https://avatars0.githubusercontent.com/u/24796965?v=3&s=460" alt="Aashna Kainth" width=130 height=130 title="Aashna Kainth">              
                
 
 <div class="contact-container container-block">
