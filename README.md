@@ -24,8 +24,7 @@
         <div class="sidebar-wrapper">
             <div class="profile-container">
                 
-                <h1 class="name">Aashna Kainth</h1>
-            </div><!--//profile-container-->
+               
 
 <div class="contact-container container-block">
                 <ul class="list-unstyled contact-list">
