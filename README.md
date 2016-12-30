@@ -23,7 +23,7 @@
  <div class="wrapper">
         <div class="sidebar-wrapper">
             <div class="profile-container">
-                <img class="profile img-circle" src="/home/aashna/Pictures/group/BeautyPlus_20161025214623_save.jpg" alt="Aashna Kainth" width=130 />
+                
                 <h1 class="name">Aashna Kainth</h1>
             </div><!--//profile-container-->
 
@@ -38,7 +38,6 @@
                     <a href="/home/aashna/Downloads/resume.pdf" target="blank" class="btn btn-primary"><span class="glyphicon glyphicon-edit"></span> Resume</a>
                 </div>
 
-</body>
 
 
 
@@ -46,12 +45,13 @@
 
 
 
-<hr> ABOUT ME: </hr>
+
+<hr> ABOUT ME: 
 <br/>
-<br>A third year Computer Science and Engineering undergraduate student at Indira Gandhi Delhi Technical University.Seeking an internship opportunity where I can enhance my skills.I always remain dedicated,sincere with the work assigned to me.I believe in learning new technologies and improving my skills.</br>
+<br>A third year Computer Science and Engineering undergraduate student at Indira Gandhi Delhi Technical University.Seeking an internship opportunity where I can enhance my skills.I always remain dedicated,sincere with the work assigned to me.I believe in learning new technologies and improving my skills.
 
 
-<hr>EDUCATION:</hr>
+<hr>EDUCATION:
 <br/>
 <br>B.TECH IN COMPUTER SCIENCE INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN<br/>
 Expected: Jun 2018| Delhi,India<br/>
@@ -63,29 +63,29 @@ Percentage: 91.8<br/>
 <br/>
 AISSCE- CLASS X (CBSE) | 2012<br/>
 MOTI RAM MEMORIAL SR. SEC. SCHOOL| Delhi,India<br/>
-CGPA: 9.8 </br>
+CGPA: 9.8 
 
 
 
-<hr>Technical Skills:</hr>
+<hr>Technical Skills:
 <br/>
 <br>- Programming Languages: C, C++, JAVA, MySQL<br/>
 
-- Platforms: Linux and Windows</br>
+- Platforms: Linux and Windows
 
 
 
-<hr>TRAINING AND INDUSTRIAL EXPOSURE:</hr>
+<hr>TRAINING AND INDUSTRIAL EXPOSURE:
 <br/>
 <br>IGDTUW | Build Your Own IOT Enabled Smart Device<br/>
 
 June-July 2015 | Delhi,India<br/>
 
-- Devised an autonomous car</br>
+- Devised an autonomous car
 
 
 
-<hr>PROJECTS:</hr>
+<hr>PROJECTS:
 <br/>
 <br><b>Smart Car (Autonomous Car)   </b>                                                              (June-July 2016)<br/>  
 
@@ -99,7 +99,7 @@ coding language.<br/>
 
 - Developed an Autonomous Car (driverless car) that is capable of sensing its environment and<br/>
 
-navigating without human input.</br>
+navigating without human input.
 
 
 
