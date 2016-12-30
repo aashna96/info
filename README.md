@@ -23,7 +23,7 @@
  <div class="wrapper">
         <div class="sidebar-wrapper">
             <div class="profile-container">
-                 <img src="pic.jpg" alt="Aashna Kainth" width=130 />
+                 
                  <h1 class="name">Aashna Kainth</h1>
                  </div><!--//profile-container-->
 
